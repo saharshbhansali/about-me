@@ -5,7 +5,7 @@ permalink: README
 redirect_from: 
   - about-me
   - /about-me
-layout: page
+layout: default
 --- 
 # About Me
 
