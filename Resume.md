@@ -3,8 +3,8 @@ remote_theme: pages-themes/hacker@v0.2.0
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: Resume
-redirect_from: 
-  - Resume.md
+# redirect_from: 
+#   - Resume.md
 layout: page
 --- 
 
@@ -16,13 +16,13 @@ layout: page
 
 ### Vellore Institute of Technology
 
-July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
+###### July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
 
 Bachelor of Technology - Computer Science and Engineering 
 
 ### Bhavan’s Rajaji Vidhyashram
 
-June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
+###### June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
 
 CBSE - Physics, Chemistry, Mathematics, Computer Science
 
