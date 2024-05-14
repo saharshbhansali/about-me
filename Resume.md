@@ -6,7 +6,6 @@ redirect_from:
   - /about-me/Resume.md
   - Resume.md
 layout: template
-remote_theme: pages-themes/hacker@v0.2.0
 --- 
 
 # Saharsh Bhansali  

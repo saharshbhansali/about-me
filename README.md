@@ -3,7 +3,6 @@ title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: README
 layout: template
-remote_theme: pages-themes/hacker@v0.2.0
 --- 
 # About Me
 
