@@ -4,7 +4,6 @@ title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: Resume
 redirect_from: 
-  - /about-me/Resume.md
   - Resume.md
 layout: page
 --- 
