@@ -1,3 +1,6 @@
+domain: saharshbhansali.github.io
+url: https://saharshbhansali.github.io/
+baseurl: /about-me/
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -5,7 +8,8 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
+
+# include:
+#   - CONTRIBUTING.md
+#   - README.md
+#   - LICENSE.md
