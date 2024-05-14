@@ -1,9 +1,9 @@
 ---
 remote_theme: pages-themes/hacker@v0.2.0
-title: "Resume"
-description: "Saharsh Bhansali's Resume"
+title: "README"
+description: "README for personal website's repository."
 permalink: README
-layout: template
+layout: page
 --- 
 # About Me
 

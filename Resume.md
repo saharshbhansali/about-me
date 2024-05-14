@@ -6,7 +6,7 @@ permalink: Resume
 redirect_from: 
   - /about-me/Resume.md
   - Resume.md
-layout: template
+layout: page
 --- 
 
 # Saharsh Bhansali  
