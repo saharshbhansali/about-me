@@ -5,6 +5,7 @@ plugins:
 title: Resume
 description: Saharsh Bhansali's Resume
 filename: Resume.md
+layout: template
 --- 
 
 # Saharsh Bhansali  
