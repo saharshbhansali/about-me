@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: About @saharshbhansali
-permalink: /about-me/
+permalink: /
 layout: page
 # remote_theme: pages-themes/hacker@v0.2.0
 # plugins:
