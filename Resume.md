@@ -15,15 +15,15 @@ layout: default
 
 ### Vellore Institute of Technology
 
-###### July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
+###### July, 2021 – July, 2025 | Vellore, India | <u>CGPA - 9.28</u>
 
-Bachelor of Technology - Computer Science and Engineering 
+**Bachelor of Technology** - Computer Science and Engineering with Specialization in Information Security
 
 ### Bhavan’s Rajaji Vidhyashram
 
-###### June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
+###### June, 2019 – June, 2021 | Chennai, India | <u>Percentage - 96.4%</u>
 
-CBSE - Physics, Chemistry, Mathematics, Computer Science
+**CBSE** - Physics, Chemistry, Mathematics, Computer Science, English
 
 - - -
 
