@@ -5,7 +5,7 @@ description: "Saharsh Bhansali's Resume"
 permalink: Resume
 # redirect_from: 
 #   - Resume.md
-layout: page
+# layout: page
 --- 
 
 # Saharsh Bhansali  
