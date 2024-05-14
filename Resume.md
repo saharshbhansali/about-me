@@ -1,11 +1,10 @@
 ---
-remote_theme: pages-themes/hacker@v0.2.0
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: Resume
 # redirect_from: 
 #   - Resume.md
-# layout: page
+layout: default
 --- 
 
 # Saharsh Bhansali  

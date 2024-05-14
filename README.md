@@ -1,12 +1,11 @@
 ---
-remote_theme: pages-themes/hacker@v0.2.0
 title: "README"
 description: "README for personal website's repository."
 permalink: README
 redirect_from: 
   - about-me
   - /about-me
-# layout: page
+layout: page
 --- 
 # About Me
 
