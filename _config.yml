@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 domain: saharshbhansali.github.io
+# url: https://saharshbhansali.github.io/about-me/
 url: https://saharshbhansali.github.io/
 baseurl: about-me
 twitter_username: saharshbhansali

@@ -5,6 +5,7 @@ description: "README for personal website's repository."
 permalink: README
 redirect_from: 
   - /about-me
+  - //about-me
 layout: page
 --- 
 # About Me
