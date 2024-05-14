@@ -69,10 +69,10 @@ Like My Work?
 	</ul>	
 </details>
 
-#
+- - - 
 
 <div align="center">
 
-### Show some ❤️ by starring some repositories!
+<h3>Show some ❤️ by starring some repositories!</h3>
 
 </div>
