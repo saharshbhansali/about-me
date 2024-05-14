@@ -1,13 +1,8 @@
 ---
 title: "About Me"
 description: About @saharshbhansali
-# redirect_from:
-#   - /about-me.html
 permalink: about-me
 layout: template
-# remote_theme: pages-themes/hacker@v0.2.0
-# plugins:
-# - jekyll-remote-theme
 ---
 
 ## Hey 👋, I'm [Saharsh Bhansali!](https://github.com/saharshbhansali/)
