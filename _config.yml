@@ -17,6 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: "About Me"
+description: "A simple personal website using GitHub Pages and Jekyll"
 domain: saharshbhansali.github.io
 # url: https://saharshbhansali.github.io/about-me/
 url: https://saharshbhansali.github.io
