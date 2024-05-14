@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
-permalink: README.md
+permalink: /
 layout: page
 remote_theme: pages-themes/hacker@v0.2.0
 # plugins:
