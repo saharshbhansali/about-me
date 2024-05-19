@@ -2,24 +2,22 @@
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: Resume
-# redirect_from: 
-#   - Resume.md
-layout: default
+layout: resume
 --- 
 
 # Saharsh Bhansali  
 ###### Chennai, Tamil Nadu, India  
 ###### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
 - - -
-## EDUCATION
+### EDUCATION
 
-### Vellore Institute of Technology
+#### Vellore Institute of Technology
 
 ###### July, 2021 – July, 2025 | Vellore, India | <u>CGPA - 9.28</u>
 
 **Bachelor of Technology** - Computer Science and Engineering with Specialization in Information Security
 
-### Bhavan’s Rajaji Vidhyashram
+#### Bhavan’s Rajaji Vidhyashram
 
 ###### June, 2019 – June, 2021 | Chennai, India | <u>Percentage - 96.4%</u>
 
@@ -27,7 +25,7 @@ layout: default
 
 - - -
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 -  **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java,
   JavaScript/TypeScript, SQL, NoSQL, R   
@@ -43,9 +41,9 @@ layout: default
 
 - - -
 
-## PROJECTS
+### PROJECTS
 
-### CLI-TOP
+#### CLI-TOP
   [Website](https://cli-top.acmvit.in) | **Dec, 2023 - Jan, 2024**
 
   -  A **CLI interface** to access the university’s Learning Management
@@ -57,7 +55,7 @@ layout: default
   -  Lead the ideation and implementation of **Quality of Life
     enhancing** features.
 
-### Career Node
+#### Career Node
   [GitHub](https://github.com/kaushalrathi24/funtimeError) | **June, 2023**
 
   -  Team funtimeError - Yantra Main Hack (**Education Track Winner**).
@@ -70,7 +68,7 @@ layout: default
     relevant, tailored recommendations and dynamically curated learning
     materials from the Internet.
 
-### Access Denied
+#### Access Denied
   [GitHub](https://github.com/ACM-VIT/accessDenied) | **Dec, 2022** 
 
   -  Proof Of Concept model showcasing a **decentralized authentication
@@ -83,9 +81,9 @@ layout: default
 
 - - -
 
-## EXPERIENCE
+### EXPERIENCE
 
-### Association for Computing Machinery - Student Chapter
+#### Association for Computing Machinery - Student Chapter
   **June, 2022 – Present** | *VIT, Vellore* 
 
   -  **Focused and innovative leader**, adept at organizing diverse
@@ -109,7 +107,7 @@ layout: default
   -  **Participated in Capture The Flag competitions**, showcasing a
     passion for research and problem-solving.
 
-### The Next Chapter - Literature Club
+#### The Next Chapter - Literature Club
   **June, 2022 – Feb, 2024** | *VIT, Vellore* 
 
   -  Responsible for **internal management and coordination between
@@ -126,10 +124,10 @@ layout: default
 
 - - -
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 
--  **Cloud Practitioner (CP)** - *Amazon Web Services (AWS)* - [21NW5Q62VNRQ1859](https://aws.amazon.com/verification)
+-  **Cloud Practitioner (CP)**: *Amazon Web Services (AWS)* - [21NW5Q62VNRQ1859](https://aws.amazon.com/verification)
 
--  **Cloud Solutions Architect Associate (SAA)** - *Amazon Web Services (AWS)* - [f4443e43cdcf400e92cd359cbecf15c6](https://aws.amazon.com/verification)
+-  **Cloud Solutions Architect - Associate (CSAA)**: *Amazon Web Services (AWS)* - [f4443e43cdcf400e92cd359cbecf15c6](https://aws.amazon.com/verification)
 
 - - - 

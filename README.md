@@ -14,14 +14,14 @@ A simple personal website using github pages.
 
 ## References 
 
-[GitHub Pages](https://pages.github.com)
+- [GitHub Pages](https://pages.github.com)
 
-[Quickstart](https://docs.github.com/en/pages/quickstart)
+- [Quickstart](https://docs.github.com/en/pages/quickstart)
 
-[Reference 1](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
+- [Reference 1](https://phuston.github.io/patrickandfrantonarethebestninjas/howto)
 
-[Reference 2](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
+- [Reference 2](https://nicolas-van.github.io/easy-markdown-to-github-pages/)
 
-[Reference 3](https://dev.to/ar2pi/publish-your-markdown-docs-on-github-pages-6pe)
+- [Reference 3](https://dev.to/ar2pi/publish-your-markdown-docs-on-github-pages-6pe)
 
-[Reference 4](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
+- [Reference 4](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll)
