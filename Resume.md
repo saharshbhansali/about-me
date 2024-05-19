@@ -9,7 +9,7 @@ layout: default
 
 # Saharsh Bhansali  
 ##### Chennai, Tamil Nadu, India  
-##### <a href="tel:+919941286420">[Phone](tel:+919941286420)</a> | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
+##### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
 - - -
 ## EDUCATION
 
