@@ -25,14 +25,14 @@ export const RESUME_DATA = {
   location: "Chennai, India, IST",
   locationLink: "https://www.google.com/maps/place/Chennai",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Cybersecurity and System Administration enthusiast, crafting robust solutions with meticulous attention to detail, pursuing a Bachelors in Computer Science.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "I’m an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I’m also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it’s “Habits will make or break you. Practice good OpSec!” ",
+  avatarUrl: "https://avatars.githubusercontent.com/saharshbhansali",
+  personalWebsiteUrl: "https://saharshbhansali.github.io/about-me/",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "saharsh.bhansali15@gmail.com",
+    tel: "+919941286420",
     social: [
       {
         name: "GitHub",
@@ -57,6 +57,12 @@ export const RESUME_DATA = {
       degree: "Bachelor of Technology in Computer Science and Engineering",
       start: "2021",
       end: "2025",
+    },
+    {
+      school: "Bhavan's Rajaji Vidyashram",
+      degree: "Higher Secondary School",
+      start: "2019",
+      end: "2021",
     },
   ],
   work: [
