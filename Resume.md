@@ -46,14 +46,11 @@ layout: resume
 #### CLI-TOP
   [Website](https://cli-top.acmvit.in) | **Dec, 2023 - Jan, 2024**
 
-  -  A **CLI interface** to access the university’s Learning Management
-    System (LMS).
+  -  A **CLI interface** to access the university’s Learning Management System (LMS).
 
-  -  **Project management and maintainership**. Established a CI/CD
-    pipeline to distribute binaries.
+  -  **Project management and maintainership**. Established a CI/CD pipeline to distribute binaries.
 
-  -  Lead the ideation and implementation of **Quality of Life
-    enhancing** features.
+  -  Lead the ideation and implementation of **Quality of Life enhancing** features.
 
 #### Career Node
   [GitHub](https://github.com/kaushalrathi24/funtimeError) | **June, 2023**
