@@ -1,11 +1,8 @@
 ---
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
-permalink: /about-me/Resume.md
+permalink: /about-me/Resume
 layout: page
-remote_theme: pages-themes/hacker@v0.2.0
-# plugins:
-# - jekyll-remote-theme
 --- 
 
 # Saharsh Bhansali  
