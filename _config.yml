@@ -22,7 +22,7 @@ description: "A simple personal website using GitHub Pages and Jekyll"
 domain: saharshbhansali.github.io
 # url: https://saharshbhansali.github.io/about-me/
 url: https://saharshbhansali.github.io
-baseurl: about-me
+baseurl: /about-me
 twitter_username: saharshbhansali
 github_username: saharshbhansali
 
@@ -35,7 +35,6 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-
 
 # Exclude from processing.
 # The following items will not be processed, by default.
