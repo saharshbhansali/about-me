@@ -2,7 +2,7 @@
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
 permalink: Resume
-layout: default
+layout: resume
 --- 
 
 # Saharsh Bhansali  
