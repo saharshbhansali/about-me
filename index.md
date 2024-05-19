@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 description: About @saharshbhansali
-permalink: index
-layout: default
+# permalink: index
+layout: homepage
 ---
 
-## Hey 👋, I'm [Saharsh Bhansali!](https://github.com/saharshbhansali/)
+## Hey 👋, I'm [Saharsh Bhansali!](https://github.com/saharshbhansali/) &nbsp;
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharsh-bhansali/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SaharshBhansali)
@@ -14,7 +14,6 @@ layout: default
 <!--  [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saharshbhansali.dev) -->
 <!-- [![Steam Profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/saharshbhansali/) -->
 
-### Glad to see you here! &nbsp; 
 
 I'm an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Habits will make or break you. Practice good OpSec!" 🚢 :)
 
@@ -72,12 +71,14 @@ Like My Work?
 	    <li><b>To Stay Updated:</b> Twitter, Hackernews, Reddit</li>
 	</ul>	
 </details>
-<br />
-- - - 
+
+<br/>
 
 <div align="center">
-
-<h3>Show some ❤️ by starring some repositories!</h3>
-
+  <h6>Show some ❤️ by starring some repositories!</h6>
 </div>
-- - -
+
+<div align="center" style="color: #666;"><a style="color: #0F79D0; font: bold;" href="https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/">{{ site.title | default: site.github.repository_name }}</a> maintained by <a style="color: #0F79D0; font: bold;" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></div>
+
+<br/>
+
