@@ -75,7 +75,9 @@ Like My Work?
 	</ul>	
 </details>
 
-<p></p>
+<br/>
+
+- - -
 
 <div align="center">
   <h6>Show some ❤️ by starring some repositories!</h6>
@@ -83,10 +85,6 @@ Like My Work?
 
 <p></p>
 
-- - -
-
-<p></p>
-
-<div align="center" style="color: #666;"><a style="color: #0F79D0; font: bold;" href="https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/">{{ site.title | default: site.github.repository_name }}</a> maintained by <a style="color: #0F79D0; font: bold;" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> | Published with <a href="https://pages.github.com">GitHub Pages</a></div>
+<div align="center" style="color: #666;"><a style="color: #0F79D0; font: bold;" href="https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/">{{ site.title | default: site.github.repository_name }}</a> maintained by <a style="color: #0F79D0; font: bold;" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></div>
 
 - - -

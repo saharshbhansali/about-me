@@ -6,18 +6,18 @@ layout: resume
 --- 
 
 # Saharsh Bhansali  
-##### Chennai, Tamil Nadu, India  
-##### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
+###### Chennai, Tamil Nadu, India  
+###### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
 - - -
-## EDUCATION
+### EDUCATION
 
-### Vellore Institute of Technology
+#### Vellore Institute of Technology
 
 ###### July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
 
 Bachelor of Technology - Computer Science and Engineering 
 
-### Bhavan’s Rajaji Vidhyashram**
+#### Bhavan’s Rajaji Vidhyashram
 
 ###### June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
 
@@ -25,7 +25,7 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
 
 - - -
 
-## TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 -  **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java,
   JavaScript/TypeScript, SQL, NoSQL, R   
@@ -41,9 +41,9 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
 
 - - -
 
-## PROJECTS
+### PROJECTS
 
-### CLI-TOP
+#### CLI-TOP
   [Website](https://cli-top.acmvit.in) | **Dec, 2023 - Jan, 2024**
 
   -  A **CLI interface** to access the university’s Learning Management
@@ -55,7 +55,7 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
   -  Lead the ideation and implementation of **Quality of Life
     enhancing** features.
 
-### Career Node
+#### Career Node
   [GitHub](https://github.com/kaushalrathi24/funtimeError) | **June, 2023**
 
   -  Team funtimeError - Yantra Main Hack (**Education Track Winner**).
@@ -68,7 +68,7 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
     relevant, tailored recommendations and dynamically curated learning
     materials from the Internet.
 
-### Access Denied
+#### Access Denied
   [GitHub](https://github.com/ACM-VIT/accessDenied) | **Dec, 2022** 
 
   -  Proof Of Concept model showcasing a **decentralized authentication
@@ -81,9 +81,9 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
 
 - - -
 
-## EXPERIENCE
+### EXPERIENCE
 
-### Association for Computing Machinery - Student Chapter
+#### Association for Computing Machinery - Student Chapter
   **June, 2022 – Present** | *VIT, Vellore* 
 
   -  **Focused and innovative leader**, adept at organizing diverse
@@ -107,7 +107,7 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
   -  **Participated in Capture The Flag competitions**, showcasing a
     passion for research and problem-solving.
 
-### The Next Chapter - Literature Club
+#### The Next Chapter - Literature Club
   **June, 2022 – Feb, 2024** | *VIT, Vellore* 
 
   -  Responsible for **internal management and coordination between
@@ -124,7 +124,7 @@ CBSE - Physics, Chemistry, Mathematics, Computer Science
 
 - - -
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 
 -  **Cloud Practitioner (CP)** - *Amazon Web Services (AWS)* - [21NW5Q62VNRQ1859](https://aws.amazon.com/verification)
 
