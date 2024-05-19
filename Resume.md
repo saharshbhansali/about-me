@@ -1,25 +1,25 @@
 ---
 title: "Resume"
 description: "Saharsh Bhansali's Resume"
-permalink: /about-me/Resume
-layout: page
+permalink: Resume
+layout: default
 --- 
 
 # Saharsh Bhansali  
 ##### Chennai, Tamil Nadu, India  
-##### <a href="tel:+919941286420">[+91 99412 86420](tel:+919941286420)</a> | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
+##### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
 - - -
 ## EDUCATION
 
 ### Vellore Institute of Technology
 
-July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
+###### July, 2021 – July, 2025 | *Vellore, India* | **CGPA** - **9.28**
 
 Bachelor of Technology - Computer Science and Engineering 
 
 ### Bhavan’s Rajaji Vidhyashram**
 
-June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
+###### June, 2019 – June, 2021 | *Chennai, India* | **Percentage** - **96.4%**
 
 CBSE - Physics, Chemistry, Mathematics, Computer Science
 

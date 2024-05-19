@@ -1,8 +1,8 @@
 ---
 title: "About Me"
 description: About @saharshbhansali
-permalink: /about-me/index
-layout: page
+permalink: index
+layout: default
 ---
 
 ## Hey 👋, I'm [Saharsh Bhansali!](https://github.com/saharshbhansali/)
