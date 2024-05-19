@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: About @saharshbhansali
-# permalink: index
+permalink: index
 layout: default
 ---
 
@@ -37,7 +37,8 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
-- 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume).
+- 📝 &nbsp; Checkout my [Resume](./Resume).
+<!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume). -->
 <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
 
 ### My Absolute Favorites:
@@ -56,26 +57,22 @@ Like My Work?
 
 <details>	
   <summary><b>⚡ GitHub Stats</b></summary>
-
-  <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saharshbhansali&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshbhansali&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
-  <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Arco Linux</li>
-	    <li><b>Laptop: </b>HP Pavilion Gaming</li>
-      <li><b>Browser: </b>Vivaldi, Brave, Firefox</li>
-	    <li><b>Terminal: </b> ZSH</li>
+	    <li><b>Laptop:</b> HP Pavilion Gaming</li>
+		<li><b>Browser:</b> Vivaldi, Brave, Firefox</li>
+	    <li><b>Terminal:</b> ZSH</li>
 	    <li><b>Code Editor:</b> Neovim, VS Codium</li>
 	    <li><b>To Stay Updated:</b> Twitter, Hackernews, Reddit</li>
-	    <br />
 	</ul>	
 </details>
-
+<br />
 - - - 
 
 <div align="center">

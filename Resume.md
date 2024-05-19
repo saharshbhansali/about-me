@@ -8,8 +8,8 @@ layout: default
 --- 
 
 # Saharsh Bhansali  
-##### Chennai, Tamil Nadu, India  
-##### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
+###### Chennai, Tamil Nadu, India  
+###### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
 - - -
 ## EDUCATION
 
