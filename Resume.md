@@ -46,14 +46,11 @@ layout: resume
 #### CLI-TOP
   [Website](https://cli-top.acmvit.in) | **Dec, 2023 - Jan, 2024**
 
-  -  A **CLI interface** to access the university’s Learning Management
-    System (LMS).
+  -  A **CLI interface** to access the university’s Learning Management System (LMS).
 
-  -  **Project management and maintainership**. Established a CI/CD
-    pipeline to distribute binaries.
+  -  **Project management and maintainership**. Established a CI/CD pipeline to distribute binaries.
 
-  -  Lead the ideation and implementation of **Quality of Life
-    enhancing** features.
+  -  Lead the ideation and implementation of **Quality of Life enhancing** features.
 
 #### Career Node
   [GitHub](https://github.com/kaushalrathi24/funtimeError) | **June, 2023**
@@ -126,8 +123,8 @@ layout: resume
 
 ### CERTIFICATIONS
 
--  **Cloud Practitioner (CP)**: *Amazon Web Services (AWS)* - [21NW5Q62VNRQ1859](https://aws.amazon.com/verification)
+-  [**Cloud Practitioner (CP)**](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): *Amazon Web Services (AWS)*
 
--  **Cloud Solutions Architect - Associate (CSAA)**: *Amazon Web Services (AWS)* - [f4443e43cdcf400e92cd359cbecf15c6](https://aws.amazon.com/verification)
+-  [**Cloud Solutions Architect - Associate (CSAA)**](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): *Amazon Web Services (AWS)*
 
 - - - 
