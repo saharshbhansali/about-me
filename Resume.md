@@ -121,8 +121,9 @@ layout: resume
 
 ### CERTIFICATIONS
 
+-  [**Cloud Solutions Architect - Associate (CSAA)**](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): *Amazon Web Services (AWS)*
+
 -  [**Cloud Practitioner (CP)**](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): *Amazon Web Services (AWS)*
 
--  [**Cloud Solutions Architect - Associate (CSAA)**](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): *Amazon Web Services (AWS)*
 
 - - - 
