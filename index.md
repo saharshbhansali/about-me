@@ -15,7 +15,9 @@ layout: homepage
 <!-- [![Steam Profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/saharshbhansali/) -->
 
 
-I'm an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's "Habits will make or break you. Practice good OpSec!" 🚢 :)
+I'm an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. 
+
+I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's **"Habits will make or break you. Practice good OpSec!"** 🚢 :)
 
 <!-- 
 I have also had the privilege of working with companies like [X](https://X.com) and [Y](https://Y.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;) 
@@ -33,6 +35,7 @@ Like My Work?
 
 - 🛠 &nbsp; I’m currently working with Python, Bash/ZSH Scripting and Go.
 - 🚀 &nbsp; I’m currently exploring the world of Cybersecurity and DevSecOps
+- 🌱 &nbsp; I'm a certified [AWS Solutions Architect - Associate](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url) and [AWS Cloud Practitioner](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
