@@ -61,7 +61,7 @@ layout: resume
 
 - Played key roles in hackathons as a participant, review panel member, and event manager.
 
-- Participated in Capture The Flag competitions, following my passion for research and problem-solving
+- Participated in Capture The Flag competitions, following my passion for research and problem-solving.
 
 #### The Next Chapter - Literature Club
 
@@ -97,7 +97,7 @@ layout: resume
 
 - Team funtimeError - Yantra Main Hack (Education Track Winner).
 
-- Engineered prompts to extract and highlight skills and interests from users' resumes
+- Engineered prompts to extract and highlight skills and interests from users' resumes.
 
 #### Access Denied
 
