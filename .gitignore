@@ -1,9 +1,13 @@
 /_site
-_site/
 _site
-.sass-cache
-.jekyll-cache
+.sass-cache/
 .jekyll-metadata
+.jekyll-cache/
+gemfiles/
+node_modules/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
 vendor
-/node_modules
 /resume
