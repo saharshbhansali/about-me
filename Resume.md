@@ -1,10 +1,9 @@
 ---
-title: "Resume"
-description: "Saharsh Bhansali's Resume"
+title: Resume
+description: Saharsh Bhansali's Resume
 permalink: Resume
 layout: resume
 ---
-
 # Saharsh Bhansali
 
 ###### Chennai, Tamil Nadu, India
@@ -31,11 +30,11 @@ layout: resume
 
 ### TECHNICAL SKILLS
 
-- **Technologies/Frameworks:** Linux, Git and GitHub, BurpSuite, ZAP,
+- **Technologies/Frameworks:** Git, BurpSuite, ZAP,
   Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, gobuster, exiftool,
-  Infoga, ReconDog, Parrot OS and Kali Linux, Docker, AWS
+  Infoga, ReconDog, Docker, AWS
 
-- **Developer Tools:** VSCode, Neovim, VMWare/VirtualBox
+- **Developer Tools:** VMWare/VirtualBox, Parrot OS and Kali Linux, GitHub
 
 - **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
 
@@ -95,19 +94,33 @@ layout: resume
 
 - Integrated the OpenAI GPT-3.5 API for tailored recommendations and curated learning materials.
 
-- Team funtimeError - Yantra Main Hack (Education Track Winner).
-
 - Engineered prompts to extract and highlight skills and interests from users' resumes.
+
+- 2023 Yantra "Main Hack" Education Track Winner.
 
 #### Access Denied
 
 ###### [GitHub](https://github.com/ACM-VIT/accessDenied) | Dec, 2022 | Python, JavaScript, Juptyer Notebooks
 
-- Proof Of Concept model showcasing a decentralized authentication system.
+- Built a decentralized authentication system from scratch (PoC).
 
-- Based on Zero-Knowledge Proofs (ZKPs).
+- Showcased the application of Zero-Knowledge Proofs (ZKPs) in decentralized authentication systems.
 
 - Led the team in ideation, researching ZKPs, and translating complex theories into a CLI demonstration.
+
+#### Tally Stock
+
+###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
+
+- Full-stack inventory management system, complete with a frontend for web browsers as well as a CLI frontend.
+
+- Backend written in Golang, using gofiber for setting up API routes, and
+  gorm for a backend ORM, supporting both Postgres and SQLite.
+
+- Web app frontend written in TypeScript, using NextJS, TailwindCSS, MaterialUI, and ShadcnUI.
+  CLI frontend written in Python.
+
+- Automated deployment as a local application using Docker.
 
 ---
 
@@ -115,6 +128,7 @@ layout: resume
 
 - [Solutions Architect - Associate (SAA)](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): Amazon Web Services (AWS)
 
-- [Cloud Practitioner (CP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
+- [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
 
 ---
+
