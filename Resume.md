@@ -34,9 +34,9 @@ layout: resume
   Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, gobuster, exiftool,
   Infoga, ReconDog, Docker, AWS
 
-- **Developer Tools:** VMWare/VirtualBox, Parrot OS and Kali Linux, GitHub
-
 - **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
+
+- **Developer Tools:** VMWare/VirtualBox, Parrot OS and Kali Linux, GitHub
 
 - **Design:** Figma, Photoshop, Illustrator, Canva
 
@@ -112,13 +112,12 @@ layout: resume
 
 ###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
 
-- Full-stack inventory management system, complete with a frontend for web browsers as well as a CLI frontend.
+- Full-stack inventory management system, with a frontend for web browsers and a CLI frontend in Python.
 
 - Backend written in Golang, using gofiber for setting up API routes, and
   gorm for a backend ORM, supporting both Postgres and SQLite.
 
 - Web app frontend written in TypeScript, using NextJS, TailwindCSS, MaterialUI, and ShadcnUI.
-  CLI frontend written in Python.
 
 - Automated deployment as a local application using Docker.
 
