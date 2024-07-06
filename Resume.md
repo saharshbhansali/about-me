@@ -1,10 +1,9 @@
 ---
-title: "Resume"
-description: "Saharsh Bhansali's Resume"
+title: Resume
+description: Saharsh Bhansali's Resume
 permalink: Resume
 layout: resume
 ---
-
 # Saharsh Bhansali
 
 ###### Chennai, Tamil Nadu, India
@@ -113,7 +112,7 @@ layout: resume
 
 ###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
 
-- Full-stack inventory management system, complete with a frontend for web browsers and CLI frontend.
+- Full-stack inventory management system, complete with a frontend for web browsers as well as a CLI frontend.
 
 - Backend written in Golang, using gofiber for setting up API routes, and
   gorm for a backend ORM, supporting both Postgres and SQLite.
@@ -132,3 +131,4 @@ layout: resume
 - [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
 
 ---
+
