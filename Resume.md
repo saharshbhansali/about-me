@@ -7,7 +7,7 @@ layout: resume
 
 # Saharsh Bhansali
 
-[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) | [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali) | [Download Resume](./SaharshResume.pdf)
+[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./SaharshResume.pdf)
 
 ---
 
