@@ -48,9 +48,7 @@ layout: resume
 ###### [Website](https://cli-top.acmvit.in) | Dec, 2023 - Jan, 2024 | Go, Cobra, Glamor, GitHub Actions `
 
 - **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students.
-
 - Developed key features – autologin, attendance alert, kill-switch for centralized control, and mark totaling .
-
 - Built a CI/CD pipeline to distribute binaries using GitHub Actions.
 
 #### Tally Stock
@@ -58,11 +56,8 @@ layout: resume
 ###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
 
 - Experimental inventory management system, to self-learn full stack development.
-
 - Backend: Go, gofiber, and gorm
-
 - Frontend: TypeScript, NextJS, TailwindCSS, MaterialUI, and ShadcnUI. CLI Frontend: Python
-
 - Infrastructure: Docker (local application)
 
 #### Career Node
@@ -70,9 +65,7 @@ layout: resume
 ###### [GitHub](https://github.com/kaushalrathi24/funtimeError) | June, 2023 | OpenAI GPT3.5 API, TypeScript, Flask
 
 - Integrated the OpenAI GPT-3.5 API for tailored recommendations and curated learning materials.
-
 - Engineered prompts to extract and highlight skills and interests from users' resumes.
-
 - 2023 Yantra "Main Hack" Education Track Winner.
 
 #### Access Denied
@@ -80,7 +73,6 @@ layout: resume
 ###### [GitHub](https://github.com/ACM-VIT/accessDenied) | Dec, 2022 | Python, JavaScript, Juptyer Notebooks
 
 - Built a decentralized authentication system from scratch (PoC) using Zero-Knowledge Proofs (ZKPs).
-
 - Led the team in ideation, researching ZKPs, and translating complex theories into a CLI demonstration.
 
 #### Self-Taught Tinkerer
@@ -96,15 +88,10 @@ layout: resume
 ###### Research Lead | June, 2022 – Present | VIT, Vellore
 
 - Developed questions for the Reverse Coding (RC) contest with 500+ contestants.
-
 - Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
-
 - Facilitated Cryptic Hunt - a 3-day, annual, campus-wide, hybrid treasure hunt, with 700+ participants.
-
 - Speaker and organiser at CodexCryptum, a cryptography and cybersecurity bootcamp, for 2 years.
-
 - Played key roles in hackathons as a participant, review panel member, and event manager.
-
 - Participated in Capture The Flag competitions, following my passion for research and problem-solving.
 
 #### The Next Chapter - Literature Club
@@ -112,11 +99,9 @@ layout: resume
 ###### Co-Secretary | June, 2022 – Feb, 2024 | VIT, Vellore
 
 - Coordinated internal management between departments as Co-Secretary.
-
 - Participated in discussions and wrote editorials, organized literary events,
   and created promotional posts, stories, and digital content, while working
   with the Editorial, Management, and Design departments.
-
 - Managed the club’s Instagram page.
 
 ---
