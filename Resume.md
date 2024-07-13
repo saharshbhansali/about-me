@@ -80,7 +80,7 @@ layout: resume
 - Speaker and organiser at CodexCryptum, a cryptography and cybersecurity bootcamp, for 2 years.
 - Played key roles in hackathons as a participant, review panel member, and event manager.
 - Participated in Capture The Flag competitions, following my passion for research and problem-solving.
-- Participated in ACM Winter School - a 12-day cryptography and cybersecurity bootcamp, oraganized by ACM-India at VIT, Vellore 
+<!-- - Participated in ACM Winter School - a 12-day cryptography and cybersecurity bootcamp, oraganized by ACM-India at VIT, Vellore -->
 
 #### The Next Chapter - Literature Club
 
@@ -118,6 +118,7 @@ layout: resume
 
 ---
 
+<!--
 ### TECHNICAL SKILLS
 
 - **Technologies/Frameworks:** Git, BurpSuite, ZAP,
@@ -131,7 +132,9 @@ layout: resume
 - **Design:** Figma, Photoshop, Illustrator, Canva
 
 ---
+-->
 
+<!--
 <div style="color:white;">
 - Languages: English, Hindi, Tamil
 - Technical Skills: JavaScript, HTML, CSS, ReactJS, Astro
@@ -140,3 +143,4 @@ layout: resume
 - Soft Skills: Decision Making, Project Management, Leadership, Teamwork, Attention to Detail, Problem Solving
 - Qualifications: CEH (Certified Ethical Hacker), eJPT (e-Learn Junior Penetration Tester)
 </div>
+-->
