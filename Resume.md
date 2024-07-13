@@ -17,7 +17,7 @@ layout: resume
 
 ###### [Website](https://cli-top.acmvit.in) | Dec, 2023 - Jan, 2024 | Go, Cobra, Glamor, GitHub Actions
 
-- **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students.[^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com)
+- **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students \| [know more](mailto:saharsh.bhansali15@gmail.com).
 - Developed key features – autologin, attendance alert, kill-switch for centralized control, and mark totaling .
 - Built a CI/CD pipeline to distribute binaries using GitHub Actions.
 - Project manager and maintainer. Coordinated and led a team of 5 developers.
@@ -50,7 +50,7 @@ layout: resume
 
 [Ask me about it!](mailto:saharsh.bhansali15@gmail.com)
 
-###### [System Administraion](https://github.com/saharshbhansali/.dotfiles) | Shell Scripting, Chezmoi, GNU Stow
+###### [System Administraion](https://github.com/saharshbhansali/.dotfiles) | Shell Scripting, Chezmoi, GNU Stow, Nix, Ansible
 
 - A development setup and streamlined workflow, with automated configuration management, rapidly deployable on multiple platforms.
 
@@ -58,7 +58,7 @@ layout: resume
 
 - Learning cyber-security through hands-on exercises.
 
-###### [Personal Page](https://saharshbhansali.github.io/about-me/) | Jekyll, Markdown, GitHub Pages, LaTeX
+###### [Personal Site](https://saharshbhansali.github.io/about-me/) | Jekyll, Markdown, GitHub Pages, LaTeX
 
 - A static website to showcase my professional profile and skills.
 
@@ -74,7 +74,7 @@ layout: resume
 
 ###### Research Lead | June, 2022 – Present | VIT, Vellore
 
-- Developed questions for the Reverse Coding (RC) contest with 500+ contestants.[^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com)
+- Developed questions for the Reverse Coding (RC) contest with 500+ contestants \| [know more](mailto:saharsh.bhansali15@gmail.com).
 - Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
 - Facilitated Cryptic Hunt - a 3-day, annual, campus-wide, hybrid treasure hunt, with 700+ participants.
 - Speaker and organiser at CodexCryptum, a cryptography and cybersecurity bootcamp, for 2 years.
