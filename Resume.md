@@ -17,7 +17,7 @@ layout: resume
 
 ###### [Website](https://cli-top.acmvit.in) | Dec, 2023 - Jan, 2024 | Go, Cobra, Glamor, GitHub Actions
 
-- **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students [^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com).
+- **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students.[^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com)
 - Developed key features – autologin, attendance alert, kill-switch for centralized control, and mark totaling .
 - Built a CI/CD pipeline to distribute binaries using GitHub Actions.
 - Project manager and maintainer. Coordinated and led a team of 5 developers.
@@ -46,21 +46,21 @@ layout: resume
 - Built a decentralized authentication system from scratch (PoC) using Zero-Knowledge Proofs (ZKPs).
 - Led the team in ideation, researching ZKPs, and translating complex theories into a CLI demonstration.
 
-#### Self-Taught Tinkerer[\*](mailto:saharsh.bhansali15@gmail.com)
+#### Self-Taught Tinkerer
 
 [Ask me about it!](mailto:saharsh.bhansali15@gmail.com)
 
-###### [System Administraion](https://github.com/saharshbhansali/.dotfiles) | Bash/ZSH Scripting, Chezmoi, GNU Stow
+###### [System Administraion](https://github.com/saharshbhansali/.dotfiles) | Shell Scripting, Chezmoi, GNU Stow
 
-- Streamlined my workflow. Created a development setup, with automated configuration management, rapidly deployable on multiple platforms.
+- A development setup and streamlined workflow, with automated configuration management, rapidly deployable on multiple platforms.
 
-###### [Home Labs, CTFs, and Bug Bounties]() | BurpSuite/ZAP, Ghidra, Metasploit, VirtualBox, ParrotOS/Kali Linux
+###### <span style="color:#0F79D0">Home Labs, CTFs, and Bug Bounties</span> | BurpSuite, Ghidra, Metasploit, JohnTheRipper, Gobuster, Exiftool, ReconDog, VirtualBox, ParrotOS, Kali Linux
 
 - Learning cyber-security through hands-on exercises.
 
 ###### [Personal Page](https://saharshbhansali.github.io/about-me/) | Jekyll, Markdown, GitHub Pages, LaTeX
 
-- Create a static website to showcase my professional profile and skills.
+- A static website to showcase my professional profile and skills.
 
 ###### [Obsidian Notes](https://gist.github.com/saharshbhansali/5da604f1731c7d5ea07b2bd91552d48c)
 
@@ -74,18 +74,19 @@ layout: resume
 
 ###### Research Lead | June, 2022 – Present | VIT, Vellore
 
-- Developed questions for the Reverse Coding (RC) contest with 500+ contestants [^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com).
+- Developed questions for the Reverse Coding (RC) contest with 500+ contestants.[^k^^n^^o^^w^ ^m^^o^^r^^e^](mailto:saharsh.bhansali15@gmail.com)
 - Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
 - Facilitated Cryptic Hunt - a 3-day, annual, campus-wide, hybrid treasure hunt, with 700+ participants.
 - Speaker and organiser at CodexCryptum, a cryptography and cybersecurity bootcamp, for 2 years.
 - Played key roles in hackathons as a participant, review panel member, and event manager.
 - Participated in Capture The Flag competitions, following my passion for research and problem-solving.
+<!-- - Participated in ACM Winter School - a 12-day cryptography and cybersecurity bootcamp, oraganized by ACM-India at VIT, Vellore -->
 
 #### The Next Chapter - Literature Club
 
 ###### Co-Secretary | June, 2022 – Feb, 2024 | VIT, Vellore
 
-- Coordinated internal management between departments as Co-Secretary.
+- Coordinated inter-department communication, and organized conflict resolution and team building initiatives as Co-Secretary.
 - Participated in discussions and wrote editorials, organized literary events,
   and created promotional posts, stories, and digital content, while working
   with the Editorial, Management, and Design departments.
@@ -117,16 +118,29 @@ layout: resume
 
 ---
 
+<!--
 ### TECHNICAL SKILLS
 
 - **Technologies/Frameworks:** Git, BurpSuite, ZAP,
   Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, Gobuster, Exiftool,
   Infoga, ReconDog, Docker, AWS
 
-- **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
+- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
 
 - **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
 
 - **Design:** Figma, Photoshop, Illustrator, Canva
 
 ---
+-->
+
+<!--
+<div style="color:white;">
+- Languages: English, Hindi, Tamil
+- Technical Skills: JavaScript, HTML, CSS, ReactJS, Astro
+- Technical Competencies: Vulnerability Analysis, Penetration Testing, Network Security, CI/CD, Configuration Management, Infrastructure as Code, Competitive Coding
+- Tools: Figma, Photoshop, Illustrator, Canva, Infoga, Ida, Kubernetes, VMWare
+- Soft Skills: Decision Making, Project Management, Leadership, Teamwork, Attention to Detail, Problem Solving
+- Qualifications: CEH (Certified Ethical Hacker), eJPT (e-Learn Junior Penetration Tester)
+</div>
+-->
