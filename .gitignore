@@ -26,3 +26,6 @@ vendor
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+
+# WIP files
+# Rework.*
