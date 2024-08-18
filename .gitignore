@@ -1,9 +1,14 @@
+# Jekyll build files
 /_site
 _site
 .sass-cache/
 .jekyll-metadata
 .jekyll-cache/
+
+# Ruby build files
 gemfiles/
+
+# Node build files
 node_modules/
 vendor/bundle/
 vendor/cache/
@@ -11,3 +16,16 @@ vendor/gems/
 vendor/ruby/
 vendor
 /resume
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# WIP files
+# Rework.*

@@ -1,15 +1,104 @@
 ---
-title: "Resume"
-description: "Saharsh Bhansali's Resume"
+title: Resume
+description: Saharsh Bhansali's Resume
 permalink: Resume
 layout: resume
 ---
 
 # Saharsh Bhansali
 
-###### Chennai, Tamil Nadu, India
+[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./Resume.pdf)
 
-###### [Phone](tel:+919941286420) | [Email](mailto:saharsh.bhansali15@gmail.com) | [LinkedIn](https://linkedin.com/in/saharsh-bhansali) | [GitHub](https://github.com/saharshbhansali)
+---
+
+### PROJECT EXPERIENCE
+
+#### CLI-TOP
+
+###### [Website](https://cli-top.acmvit.in) | Dec, 2023 - Jan, 2024 | Go, Cobra, Glamor, GitHub Actions
+
+- **Unofficial** CLI to access the university’s Learning Management System (LMS); used by 400+ students \| [know more](mailto:saharsh.bhansali15@gmail.com).
+- Developed key features – autologin, attendance alert, kill-switch for centralized control, and mark totaling .
+- Built a CI/CD pipeline to distribute binaries using GitHub Actions.
+- Project manager and maintainer. Coordinated and led a team of 5 developers.
+
+#### Tally Stock
+
+###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
+
+- Experimental inventory management system, to self-learn full stack development.
+- Backend: Go, gofiber, and gorm
+- Frontend: TypeScript, NextJS, TailwindCSS, MaterialUI, and ShadcnUI. CLI Frontend: Python
+- Infrastructure: Docker (local application)
+
+#### Career Node
+
+###### [GitHub](https://github.com/kaushalrathi24/funtimeError) | June, 2023 | OpenAI GPT-3.5 API, TypeScript, Flask
+
+- Integrated the OpenAI GPT-3.5 API for tailored recommendations and curated learning materials.
+- Engineered prompts to extract and highlight skills and interests from users' resumes.
+- 2023 Yantra "Main Hack" Education Track Winner.
+
+#### Access Denied
+
+###### [GitHub](https://github.com/ACM-VIT/accessDenied) | Dec, 2022 | Python, JavaScript, Juptyer Notebooks
+
+- Built a decentralized authentication system from scratch (PoC) using Zero-Knowledge Proofs (ZKPs).
+- Led the team in ideation, researching ZKPs, and translating complex theories into a CLI demonstration.
+
+#### Self-Taught Tinkerer
+
+[Ask me about it!](mailto:saharsh.bhansali15@gmail.com)
+
+###### [System Administraion](https://github.com/saharshbhansali/.dotfiles) | Shell Scripting, Chezmoi, GNU Stow, Nix, Ansible
+
+- A development setup and streamlined workflow, with automated configuration management, rapidly deployable on multiple platforms.
+
+###### <span style="color:#0F79D0">Home Labs, CTFs, and Bug Bounties</span> | BurpSuite, Ghidra, Metasploit, JohnTheRipper, Gobuster, Exiftool, ReconDog, VirtualBox, ParrotOS, Kali Linux
+
+- Learning cyber-security through hands-on exercises.
+
+###### [Personal Site](https://saharshbhansali.github.io/about-me/) | Jekyll, Markdown, GitHub Pages, LaTeX
+
+- A static website to showcase my professional profile and skills.
+
+###### [Obsidian Notes](https://gist.github.com/saharshbhansali/5da604f1731c7d5ea07b2bd91552d48c)
+
+- A formatting guide for a note-taking app, Obsidian.
+
+---
+
+### EXTRA CURRICULAR
+
+#### Association for Computing Machinery - Student Chapter
+
+###### Research Lead | June, 2022 – Present | VIT, Vellore
+
+- Developed questions for the Reverse Coding (RC) contest with 500+ contestants \| [know more](mailto:saharsh.bhansali15@gmail.com).
+- Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
+- Facilitated Cryptic Hunt - a 3-day, annual, campus-wide, hybrid treasure hunt, with 700+ participants.
+- Speaker and organiser at CodexCryptum, a cryptography and cybersecurity bootcamp, for 2 years.
+- Played key roles in hackathons as a participant, review panel member, and event manager.
+- Participated in Capture The Flag competitions, following my passion for research and problem-solving.
+<!-- - Participated in ACM Winter School - a 12-day cryptography and cybersecurity bootcamp, oraganized by ACM-India at VIT, Vellore -->
+
+#### The Next Chapter - Literature Club
+
+###### Co-Secretary | June, 2022 – Feb, 2024 | VIT, Vellore
+
+- Coordinated inter-department communication, and organized conflict resolution and team building initiatives as Co-Secretary.
+- Participated in discussions and wrote editorials, organized literary events,
+  and created promotional posts, stories, and digital content, while working
+  with the Editorial, Management, and Design departments.
+- Managed the club’s Instagram page.
+
+---
+
+### CERTIFICATIONS
+
+- [Solutions Architect - Associate (SAA)](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): Amazon Web Services (AWS)
+
+- [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
 
 ---
 
@@ -29,92 +118,29 @@ layout: resume
 
 ---
 
+<!--
 ### TECHNICAL SKILLS
 
-- **Technologies/Frameworks:** Linux, Git and GitHub, BurpSuite, ZAP,
-  Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, gobuster, exiftool,
-  Infoga, ReconDog, Parrot OS and Kali Linux, Docker, AWS
+- **Technologies/Frameworks:** Git, BurpSuite, ZAP,
+  Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, Gobuster, Exiftool,
+  Infoga, ReconDog, Docker, AWS
 
-- **Developer Tools:** VSCode, Neovim, VMWare/VirtualBox
+- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
 
-- **Languages:** Python, Bash/ZSH Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
+- **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
 
 - **Design:** Figma, Photoshop, Illustrator, Canva
 
 ---
+-->
 
-### EXPERIENCE
-
-#### Association for Computing Machinery - Student Chapter
-
-###### Research Lead | June, 2022 – Present | VIT, Vellore
-
-- Organized diverse events and managed projects.
-
-- Created questions for the Reverse Coding (RC) contest with 500+ contestants.
-
-- Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
-
-- Facilitated Cryptic Hunt - a 3-day, annual, campus-wide, hybrid treasure hunt, with 700+ participants.
-
-- Speaker and organiser at a cryptography and cybersecurity bootcamp, CodexCryptum for 2 years.
-
-- Played key roles in hackathons as a participant, review panel member, and event manager.
-
-- Participated in Capture The Flag competitions, following my passion for research and problem-solving.
-
-#### The Next Chapter - Literature Club
-
-###### Co-Secretary | June, 2022 – Feb, 2024 | VIT, Vellore
-
-- Coordinated internal management between departments as Co-Secretary.
-
-- Participated in discussions and wrote editorials, organized literary events,
-  and created promotional posts, stories, and digital content, while working
-  with the Editorial, Management, and Design departments.
-
-- Managed the club’s Instagram page.
-
----
-
-### PROJECTS
-
-#### CLI-TOP
-
-###### [Website](https://cli-top.acmvit.in) | Dec, 2023 - Jan, 2024 | Go, Cobra, Glamor, GitHub Actions
-
-- A CLI interface to access the university’s Learning Management System (LMS).
-
-- Project management and maintainership. Built a CI/CD pipeline to distribute binaries.
-
-- Lead the ideation and implementation of Quality of Life enhancing features.
-
-#### Career Node
-
-###### [GitHub](https://github.com/kaushalrathi24/funtimeError) | June, 2023 | OpenAI GPT3.5 API, TypeScript, Flask
-
-- Integrated the OpenAI GPT-3.5 API for tailored recommendations and curated learning materials.
-
-- Team funtimeError - Yantra Main Hack (Education Track Winner).
-
-- Engineered prompts to extract and highlight skills and interests from users' resumes.
-
-#### Access Denied
-
-###### [GitHub](https://github.com/ACM-VIT/accessDenied) | Dec, 2022 | Python, JavaScript, Juptyer Notebooks
-
-- Proof Of Concept model showcasing a decentralized authentication system.
-
-- Based on Zero-Knowledge Proofs (ZKPs).
-
-- Led the team in ideation, researching ZKPs, and translating complex theories into a CLI demonstration.
-
----
-
-### CERTIFICATIONS
-
-- [Solutions Architect - Associate (SAA)](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): Amazon Web Services (AWS)
-
-- [Cloud Practitioner (CP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
-
----
+<!--
+<div style="color:white;">
+- Languages: English, Hindi, Tamil
+- Technical Skills: JavaScript, HTML, CSS, ReactJS, Astro
+- Technical Competencies: Vulnerability Analysis, Penetration Testing, Network Security, CI/CD, Configuration Management, Infrastructure as Code, Competitive Coding
+- Tools: Figma, Photoshop, Illustrator, Canva, Infoga, Ida, Kubernetes, VMWare
+- Soft Skills: Decision Making, Project Management, Leadership, Teamwork, Attention to Detail, Problem Solving
+- Qualifications: CEH (Certified Ethical Hacker), eJPT (e-Learn Junior Penetration Tester)
+</div>
+-->

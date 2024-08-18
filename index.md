@@ -14,16 +14,15 @@ layout: homepage
 <!--  [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://saharshbhansali.dev) -->
 <!-- [![Steam Profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/saharshbhansali/) -->
 
-
-I'm an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱. 
+I'm an Cyber Security enthusiast 👨🏻‍💻 currently pursuing my Bachelors in Computer Science 🎓. I love exploring new technologies everyday and never pass up on an opportunity to learn 📱.
 
 I'm also immensely passionate about guiding and mentoring others who are new to the field 👨‍🏫. If there is one motto I live by, it's **"Habits will make or break you. Practice good OpSec!"** 🚢 :)
 
-<!-- 
-I have also had the privilege of working with companies like [X](https://X.com) and [Y](https://Y.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;) 
+<!--
+I have also had the privilege of working with companies like [X](https://X.com) and [Y](https://Y.com), all while adhering to strict rules, and developing clean, extensible, scalable, and robust codebases. As a result, writing clean code has been engrained into my workflow, and collaborating with teammates across different time zones has become second nature ;)
 -->
 
-<!-- 
+<!--
 Like My Work?
 
 <a href="https://www.buymeacoffee.com/saharshbhansali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
@@ -39,15 +38,15 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
-- 📝 &nbsp; Checkout my [Resume](./Resume).
-<!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume). -->
-<!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
+- 📝 &nbsp; Checkout my [Resume](./Resume.pdf). You can also view it as a part of the site [here](./Resume).
+  <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume). -->
+  <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Exploring new technologies and doing certifications. 
+- 💻 &nbsp; Exploring new technologies and experimenting with the latest tools in the field.
 - 🍕 &nbsp; Taking part in CTFs, customizing my OS, and hackathons.
-- 📰 &nbsp; Reading books, cookinng, and watching mini-documentaries.
+- 📰 &nbsp; Reading books, cooking, and watching mini-documentaries.
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
@@ -84,4 +83,3 @@ Like My Work?
 <div align="center" style="color: #666;"><a style="color: #0F79D0; font: bold;" href="https://github.com/{{ site.github.owner_name }}/{{ site.github.repository_name }}/">{{ site.title | default: site.github.repository_name }}</a> maintained by <a style="color: #0F79D0; font: bold;" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></div>
 
 <br/>
-
