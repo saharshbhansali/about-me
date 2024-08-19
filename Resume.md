@@ -49,7 +49,7 @@ layout: resume
 
 - Integrated the OpenAI GPT-3.5 API for tailored recommendations and curated learning materials.
 - Engineered prompts to extract and highlight skills and interests from users' resumes.
-- 2023 Yantra "Main Hack" Education Track Winner.
+<!-- - 2023 Yantra "Main Hack" Education Track Winner. -->
 
 #### Access Denied
 
@@ -106,11 +106,13 @@ layout: resume
 
 ---
 
-### CERTIFICATIONS
+### CERTIFICATIONS AND ACHIEVEMENTS
 
 - [Solutions Architect - Associate (SAA)](https://www.credly.com/badges/dc22fd53-b367-4c97-b2ef-066a59371946/public_url): Amazon Web Services (AWS)
 
 - [Certified Cloud Practitioner (CCP)](https://www.credly.com/badges/d0f572c3-7d2c-416c-803d-4963611704f5/public_url): Amazon Web Services (AWS)
+
+- 2023 Yantra ”Main Hack” - Education Track Winner (Career Node), VIT - Vellore.
 
 ---
 
