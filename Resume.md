@@ -11,6 +11,18 @@ layout: resume
 
 ---
 
+### WORK EXPERIENCE
+
+#### Stealth Startup
+
+###### Freelance | June, 2024 – Present | AWS, Nginx, Docker, Django, PyTest
+
+- Provisioned cloud and security infrastructure. Set up API servers and reverse-proxy for different endpoints.
+- Set up a [Dockerized, self-hosted Supabase instance](https://github.com/saharshbhansali/supabase-decoupled-postgres), with an externally managed Postgres database on a local docker network. Integrated the API service with the database, Supabase Realtime, and Supabase Auth.
+- Created a test suite to unit-test the API using PyTest and Django's testing framework.
+
+---
+
 ### PROJECT EXPERIENCE
 
 #### CLI-TOP
