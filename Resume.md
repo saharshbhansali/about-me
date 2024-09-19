@@ -1,7 +1,7 @@
 ---
-title: Resume
+title: resume
 description: Saharsh Bhansali's Resume
-permalink: Resume
+permalink: resume
 layout: resume
 ---
 

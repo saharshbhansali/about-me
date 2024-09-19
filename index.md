@@ -30,7 +30,7 @@ Like My Work?
 <img align="right" height="250" width="375" alt="" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e4702ybl5wovia9vx3ujmuw7kony7zys0w1fu81xw3j&rid=giphy.gif&ct=g" />
 -->
 
-### Quick Facts:
+### Quick Facts
 
 - 🛠 &nbsp; I’m currently working with Python, Bash/ZSH Scripting and Go.
 - 🚀 &nbsp; I’m currently exploring the world of Cybersecurity and DevSecOps
@@ -38,11 +38,11 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/saharshbhansali).
 - 👾 &nbsp; Fun fact: I am a massive bookworm and a guitarist :)
 - 📫 &nbsp; How to reach me: [Email](mailto:saharsh.bhansali15@gmail.com)
-- 📝 &nbsp; Checkout my [Resume](./Resume.pdf). You can also view it as a part of the site [here](./Resume).
+- 📝 &nbsp; Checkout my [Resume](./resume.pdf). You can also view it as a part of the site [here](./resume).
   <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.github.io/about-me/Resume). -->
   <!-- - 📝 &nbsp; Checkout my [Resume](https://saharshbhansali.dev/resume.pdf). -->
 
-### My Absolute Favorites:
+### My Absolute Favorites
 
 - 💻 &nbsp; Exploring new technologies and experimenting with the latest tools in the field.
 - 🍕 &nbsp; Taking part in CTFs, customizing my OS, and hackathons.
@@ -56,22 +56,22 @@ Like My Work?
 
 ### Miscellaneous
 
-<details>	
+<details> 
   <summary><b>⚡ GitHub Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saharshbhansali&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saharshbhansali&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>	
+<details> 
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS:</b> Arco Linux</li>
-	    <li><b>Laptop:</b> HP Pavilion Gaming</li>
-		<li><b>Browser:</b> Vivaldi, Brave, Firefox</li>
-	    <li><b>Terminal:</b> ZSH</li>
-	    <li><b>Code Editor:</b> Neovim, VS Codium</li>
-	    <li><b>To Stay Updated:</b> Twitter, Hackernews, Reddit</li>
-	</ul>	
+   <ul>
+       <li><b>OS:</b> Arco Linux</li>
+     <li><b>Laptop:</b> HP Pavilion Gaming</li>
+  <li><b>Browser:</b> Vivaldi, Brave, Firefox</li>
+     <li><b>Terminal:</b> ZSH</li>
+     <li><b>Code Editor:</b> Neovim, VS Codium</li>
+     <li><b>To Stay Updated:</b> Twitter, Hackernews, Reddit</li>
+ </ul> 
 </details>
 
 <br/>
