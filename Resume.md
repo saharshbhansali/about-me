@@ -56,15 +56,18 @@ layout: resume
 - Built a CI/CD pipeline to distribute binaries using GitHub Actions.
 - Project manager and maintainer. Coordinated and led a team of 5 developers.
 
-#### Tally Stock
+#### Inventory Management System
 
 ###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, TypeScript, TailwindCSS, Docker
 
 - Experimental inventory management system, to self-learn full stack development.
 - A Dockerized Go API using gofiber and gorm, and NextJS frontend using MaterialUI and ShadcnUI.
-<!-- - Backend: Go, gofiber, and gorm
+
+<!--
+- Backend: Go, gofiber, and gorm
 - Frontend: TypeScript, NextJS, TailwindCSS, MaterialUI, and ShadcnUI. CLI Frontend: Python
-- Infrastructure: Docker (local application) -->
+- Infrastructure: Docker (local application)
+-->
 
 #### Career Node
 
