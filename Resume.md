@@ -1,13 +1,26 @@
 ---
-title: Resume
+title: resume
 description: Saharsh Bhansali's Resume
-permalink: Resume
+permalink: resume
 layout: resume
 ---
 
 # Saharsh Bhansali
 
-[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./Resume.pdf)
+[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./resume.pdf)
+
+---
+
+### TECHNICAL SKILLS
+
+- **Technologies/Frameworks:** Git, BurpSuite, ZAP, Nessus, Ghidra, Metasploit,
+  Ida, JohnTheRipper, Gobuster, Exiftool, Infoga, ReconDog, Docker, AWS
+
+- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
+
+- **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
+
+- **Design:** Figma, Photoshop, Illustrator, Canva
 
 ---
 
@@ -15,7 +28,7 @@ layout: resume
 
 #### Stealth Startup
 
-###### Freelance | June, 2024 – Present | AWS, Nginx, Docker, Django, PyTest
+###### Freelance | June, 2024 – Dec, 2024 | AWS, Nginx, Docker, Django, PyTest
 
 - Provisioned cloud and security infrastructure. Set up API servers and reverse-proxy for different endpoints.
 - Set up a [Dockerized, self-hosted Supabase instance](https://github.com/saharshbhansali/supabase-decoupled-postgres), with an externally managed Postgres database on a local docker network. Integrated the API service with the database, Supabase Realtime, and Supabase Auth.
@@ -24,6 +37,15 @@ layout: resume
 ---
 
 ### PROJECT EXPERIENCE
+
+#### Decentralized Voting
+
+###### [GitHub](https://github.com/saharshbhansali/bohemian-backend) | Sept, 2024 - Nov, 2024 | FastAPI, PyTest, Pydantic, Docker, [Jupyter Notebook](https://colab.research.google.com/github/saharshbhansali/bohemian-referendums/blob/main/ranked-choice.ipynb)
+
+- Built an API for a decentralized referendum platform using alternative voting systems.
+- Visualized the difference between traditional voting and alternative systems like Ranked Choice Voting.
+- Implemented a Zero Knowledge Proof based user authentication system.
+- Containerized the backend for easy and consistent deployments across systems.
 
 #### CLI-TOP
 
@@ -36,12 +58,13 @@ layout: resume
 
 #### Tally Stock
 
-###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
+###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, TypeScript, TailwindCSS, Docker
 
 - Experimental inventory management system, to self-learn full stack development.
-- Backend: Go, gofiber, and gorm
+- A Dockerized Go API using gofiber and gorm, and NextJS frontend using MaterialUI and ShadcnUI.
+<!-- - Backend: Go, gofiber, and gorm
 - Frontend: TypeScript, NextJS, TailwindCSS, MaterialUI, and ShadcnUI. CLI Frontend: Python
-- Infrastructure: Docker (local application)
+- Infrastructure: Docker (local application) -->
 
 #### Career Node
 
@@ -84,7 +107,7 @@ layout: resume
 
 #### Association for Computing Machinery - Student Chapter
 
-###### Research Lead | June, 2022 – Present | VIT, Vellore
+###### Research Lead | June, 2022 – Oct, 2024 | VIT, Vellore
 
 - Developed questions for the Reverse Coding (RC) contest with 500+ contestants \| [know more](mailto:saharsh.bhansali15@gmail.com).
 - Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
@@ -131,22 +154,6 @@ layout: resume
 **CBSE** - Physics, Chemistry, Mathematics, Computer Science, English
 
 ---
-
-<!--
-### TECHNICAL SKILLS
-
-- **Technologies/Frameworks:** Git, BurpSuite, ZAP,
-  Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, Gobuster, Exiftool,
-  Infoga, ReconDog, Docker, AWS
-
-- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
-
-- **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
-
-- **Design:** Figma, Photoshop, Illustrator, Canva
-
----
--->
 
 <!--
 <div style="color:white;">
