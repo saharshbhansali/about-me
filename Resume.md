@@ -7,7 +7,7 @@ layout: resume
 
 # Saharsh Bhansali
 
-[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./Resume.pdf)
+[Chennai, TN, India](https://maps.app.goo.gl/BbEcfikH5ufvvMyG6) \| [Phone](tel:+919941286420) \| [Email](mailto:saharsh.bhansali15@gmail.com) \| [LinkedIn](https://linkedin.com/in/saharsh-bhansali) \| [GitHub](https://github.com/saharshbhansali) \| [Download Resume](./resume.pdf)
 
 ---
 
@@ -15,7 +15,7 @@ layout: resume
 
 #### Stealth Startup
 
-###### Freelance | June, 2024 – Present | AWS, Nginx, Docker, Django, PyTest
+###### Freelance | June, 2024 – Dec, 2024 | AWS, Nginx, Docker, Django, PyTest
 
 - Provisioned cloud and security infrastructure. Set up API servers and reverse-proxy for different endpoints.
 - Set up a [Dockerized, self-hosted Supabase instance](https://github.com/saharshbhansali/supabase-decoupled-postgres), with an externally managed Postgres database on a local docker network. Integrated the API service with the database, Supabase Realtime, and Supabase Auth.
@@ -24,6 +24,15 @@ layout: resume
 ---
 
 ### PROJECT EXPERIENCE
+
+#### Decentralized Voting
+
+###### [GitHub](https://github.com/saharshbhansali/bohemian-backend) | Sept, 2024 - Nov, 2024 | FastAPI, PyTest, Pydantic, Docker, [Jupyter Notebook](https://colab.research.google.com/github/saharshbhansali/bohemian-referendums/blob/main/ranked-choice.ipynb)
+
+- Built an API for a decentralized referendum platform using alternative voting systems.
+- Visualized the difference between traditional voting and alternative systems like Ranked Choice Voting.
+- Implemented a Zero Knowledge Proof based user authentication system.
+- Containerized the backend for easy and consistent deployments across systems.
 
 #### CLI-TOP
 
@@ -84,7 +93,7 @@ layout: resume
 
 #### Association for Computing Machinery - Student Chapter
 
-###### Research Lead | June, 2022 – Present | VIT, Vellore
+###### Research Lead | June, 2022 – Oct, 2024 | VIT, Vellore
 
 - Developed questions for the Reverse Coding (RC) contest with 500+ contestants \| [know more](mailto:saharsh.bhansali15@gmail.com).
 - Built CI/CD pipelines for RC using GitHub Actions, Docker, and CMake for multi-platform question binaries.
