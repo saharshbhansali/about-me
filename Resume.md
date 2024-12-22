@@ -11,6 +11,19 @@ layout: resume
 
 ---
 
+### TECHNICAL SKILLS
+
+- **Technologies/Frameworks:** Git, BurpSuite, ZAP, Nessus, Ghidra, Metasploit,
+  Ida, JohnTheRipper, Gobuster, Exiftool, Infoga, ReconDog, Docker, AWS
+
+- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
+
+- **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
+
+- **Design:** Figma, Photoshop, Illustrator, Canva
+
+---
+
 ### WORK EXPERIENCE
 
 #### Stealth Startup
@@ -45,12 +58,13 @@ layout: resume
 
 #### Tally Stock
 
-###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, Python, Docker
+###### [GitHub](https://github.com/saharshbhansali/TallyStock) | Sept, 2023 - Dec, 2023 | Go, NextJS, TypeScript, TailwindCSS, Docker
 
 - Experimental inventory management system, to self-learn full stack development.
-- Backend: Go, gofiber, and gorm
+- A Dockerized Go API using gofiber and gorm, and NextJS frontend using MaterialUI and ShadcnUI.
+<!-- - Backend: Go, gofiber, and gorm
 - Frontend: TypeScript, NextJS, TailwindCSS, MaterialUI, and ShadcnUI. CLI Frontend: Python
-- Infrastructure: Docker (local application)
+- Infrastructure: Docker (local application) -->
 
 #### Career Node
 
@@ -140,22 +154,6 @@ layout: resume
 **CBSE** - Physics, Chemistry, Mathematics, Computer Science, English
 
 ---
-
-<!--
-### TECHNICAL SKILLS
-
-- **Technologies/Frameworks:** Git, BurpSuite, ZAP,
-  Nessus, Ghidra, Metasploit, Ida, JohnTheRipper, Gobuster, Exiftool,
-  Infoga, ReconDog, Docker, AWS
-
-- **Languages:** Python, Shell Scripting, C/C++, Go, Java, JavaScript/TypeScript, SQL, NoSQL, R
-
-- **Developer Tools:** VMWare, VirtualBox, Parrot OS and Kali Linux, GitHub
-
-- **Design:** Figma, Photoshop, Illustrator, Canva
-
----
--->
 
 <!--
 <div style="color:white;">
